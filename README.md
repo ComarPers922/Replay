@@ -1,2 +1,2 @@
 # Replay
-A demo which records and automatically replay user's behaviors in games.
+A demo which records and automatically replays user's behaviors in games.
